@@ -18,7 +18,7 @@
     <string name="kernel_settings_title">További kernel beállítások</string>
     <string name="kernel_settings_summary">Minden kedvelt beállítás egy helyen. Amit a kernel támogat, az itt beállítható.</string>
     <string name="color_control_title">Színbeállítás</string>
-    <string name="color_control_summary">AMOLED kijelzőjének teljes vezérlése. Hozza elő az Önben rejlő művészt és találja meg az Önnek megfelelő képernyő beállítást.</string>
+    <string name="color_control_summary">Kijelzőjének teljes vezérlése. Hozza elő az Önben rejlő művészt és találja meg az Önnek megfelelő képernyő beállítást.</string>
     <string name="power_modes_title">Power üzemmód</string>
     <string name="power_modes_summary">Kreatív? Akkor ez az a hely, ahol a buli van. Hozza létre a saját power üzemmódját és keltse életre a szörnyet!</string>
     <string name="device_monitor_title">Készülékfigyelő</string>
